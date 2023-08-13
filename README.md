@@ -1,3 +1,6 @@
-# Arch-A-Eye
-Architectural computer vision app:
-Snap a picture and learn about different architecture styles. Arch A-Eye includes a library of 25 different styles of architecture. Take a picture of any building, hit the Classify button, and the app’s machine learning model can predict what kind of architectural style the image fits into.
+# arch-a-eye
+architectural computer vision app
+
+# how to use
+download available on the [play store](https://play.google.com/store/apps/details?id=com.archaeye.architectureclassifier
+uses neural networks and an open-source architecture database for image classification

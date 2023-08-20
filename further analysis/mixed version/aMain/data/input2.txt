@@ -1,0 +1,5 @@
+50 5 9
+50 5 12
+EVENT NAME
+Time: July 8th 2021 \n Location: Event Hall
+This event aims to promote unity and diversity within our community!

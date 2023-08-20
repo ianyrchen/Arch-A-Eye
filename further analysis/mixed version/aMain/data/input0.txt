@@ -1,0 +1,5 @@
+50 5 9
+50 5 12
+BOOK TITLE
+Author's Name
+"Now is no time to think of what you do not have. Think of what you can do with that there is."
